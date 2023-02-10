@@ -1,5 +1,7 @@
 # visi-komputer-GUI
 
+like jika anda butuh tutor
+
 ![image](https://github.com/agungsoboru/visi-komputer-GUI/blob/main/Screenshot%20(630).png)
 
 ![image](https://github.com/agungsoboru/visi-komputer-GUI/blob/main/Screenshot%20(631).png)
